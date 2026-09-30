@@ -16,6 +16,8 @@ exclude = [
   "gojs\\.net",
   "ibm\\.com",
   "microsoft\\.com",
+  # Verified live 2026-09-30 but times out from CI runners (flaky hosting)
+  "holori\\.com",
 ]
 
 # Be lenient with transient failures but strict about real breakage
