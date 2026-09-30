@@ -1,0 +1,23 @@
+# lychee configuration for awesome-diagram-tool
+# Excludes are regexes — domain-bare patterns cover www/subdomains.
+
+exclude = [
+  # Bot-blocking / aggressive anti-automation
+  "miro\\.com",
+  "lucid\\.co",
+  "figma\\.com",
+  "whimsical\\.com",
+  "xmind\\.com",
+  "mindnode\\.com",
+  "cloudcraft\\.co",
+  "dbdiagram\\.io",
+  "websequencediagrams\\.com",
+  "gojs\\.net",
+  "ibm\\.com",
+  "microsoft\\.com",
+]
+
+# Be lenient with transient failures but strict about real breakage
+max_retries = 2
+timeout = 20
+accept = [200, 201, 202, 203, 204, 206]
