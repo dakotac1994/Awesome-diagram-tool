@@ -71,7 +71,7 @@ System architecture and cloud-infrastructure diagrams, from C4 models to auto-ge
 - [Cloudcraft](https://www.cloudcraft.co) — Live AWS/Azure/GCP architecture diagrams with cost and observability overlays (a Datadog product). *(proprietary)*
 - [CloudMapper](https://github.com/duo-labs/cloudmapper) — Open-source AWS network topology diagrams and security audit reports. *(BSD-3-Clause · ⭐ 6,289)*
 - [CloudSkew](https://cloudskew.com) — Online diagram and flowchart editor with built-in cloud provider icon libraries. *(proprietary)*
-- [Holori](https://www.holori.io) — Multi-cloud architecture diagrams with cost estimation and Terraform export. *(proprietary)*
+- [Holori](https://holori.com) — Multi-cloud architecture diagrams with cost estimation and Terraform export. *(proprietary)*
 - [IcePanel](https://www.icepanel.io) — Collaborative C4 modeling and diagramming tool for software architecture. *(proprietary)*
 
 ## Mind Maps

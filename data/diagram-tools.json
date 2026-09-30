@@ -398,10 +398,10 @@
   {
     "category": "architecture-cloud",
     "description": "Multi-cloud architecture diagrams with cost estimation and Terraform export.",
-    "homepage": "https://www.holori.io",
+    "homepage": "https://holori.com",
     "license": "proprietary",
     "name": "Holori",
-    "official_site": "https://www.holori.io",
+    "official_site": "https://holori.com",
     "repo": null,
     "stars": null,
     "unverified_reason": null,

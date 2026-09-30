@@ -5,6 +5,7 @@ exclude = [
   # Bot-blocking / aggressive anti-automation
   "miro\\.com",
   "lucid\\.co",
+  "lucidchart\\.com",
   "figma\\.com",
   "whimsical\\.com",
   "xmind\\.com",

@@ -69,7 +69,7 @@ jobs:
 
           # JSON -> README: every entry must have a bullet
           for e in data:
-              if f"[{e['name']}]( " not in catalog and f"[{e['name']}](\" not in catalog:
+              if f"[{e['name']}](" not in catalog:
                   errors.append(f"README catalog missing bullet for {e['name']!r}")
 
           # README -> JSON: every catalog bullet must map to an entry
